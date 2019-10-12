@@ -80,3 +80,10 @@ Our implementation is based on MCL library at https://github.com/herumi/mcl by M
 According to the 3-Clause BSD License , here we retain the original copyright notice.
 
 The copyright file `COPYRIGHT_MCL` is attached.
+
+# Author
+刘振 Zhen Liu (liuzhen@sjtu.edu.cn)
+
+柯晓荣 Xiaorong Ke (kexiaorong@sjtu.edu.cn)
+
+刘易宁 Yining Liu (ynyn24@sjtu.edu.cn)
