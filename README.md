@@ -83,9 +83,9 @@ The copyright file `COPYRIGHT_MCL` is attached.
 
 # Author
 
-柯晓荣 Xiaorong Ke (kexiaorong@sjtu.edu.cn)
+Xiaorong Ke (kexiaorong@sjtu.edu.cn)
 
-刘易宁 Yining Liu (ynyn24@sjtu.edu.cn)
+Yining Liu (ynyn24@sjtu.edu.cn)
 
-刘振 Zhen Liu (liuzhen@sjtu.edu.cn)
+Zhen Liu (liuzhen@sjtu.edu.cn)
 
